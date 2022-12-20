@@ -5,8 +5,11 @@ name = "pypi"
 
 [packages]
 chatgptpy = "*"
+free-proxy = "*"
+requests = "*"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.9"

@@ -1,4 +1,5 @@
 import subprocess
+from fp.fp import FreeProxy
 from pychatgpt import Chat, Options
 
 
